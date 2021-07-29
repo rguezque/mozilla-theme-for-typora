@@ -1,0 +1,11 @@
+{
+    "name": "rguezque/mozilla-theme-for-typora",
+    "description": "Light theme for Typora based on Developer Mozilla website",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Rodriguez",
+            "email": "rguezque@gmail.com"
+        }
+    ]
+}
