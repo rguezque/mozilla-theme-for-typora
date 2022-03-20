@@ -67,7 +67,13 @@ html,
 }
 
 kbd {
-  font-family: var(--font-family);
+  background-color: #333;
+  border-radius: 4px;
+  border: none;
+  box-shadow: none;
+  color: #FFF;
+  font-family: var(--code-font-family);
+  padding: 2px 4px;
 }
 
 body {
@@ -2362,10 +2368,4 @@ p[type='description'] {
   color: darkslategray;
   margin: 0rem;
   margin-bottom: 1rem;
-}
-
- /*kbd*/
-
- kbd {
-  font-family: var(--font-family);
 }
