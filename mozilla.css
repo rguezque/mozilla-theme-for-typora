@@ -177,6 +177,15 @@ h6 code {
   font-size: inherit;
 }
 
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
+    font-size: 90%;
+}
+
 h1 {
   font-size: 3.052rem;
   font-weight: 700;
